@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", serif;
+    font-style: normal;
+}
+
+
+
+
+
+body {
+    background-image: url('./img/fundo.webp');
+}
+
+.conteiner-buttons {
+
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+button {
+    background-color: #79cb15;
+    border: none;
+    border-radius: 5px;
+    color: #000000;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 120px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    gap: 20px;
+    justify-content: center;
+}
+
+li{
+    border: 3px solid #8133ff;
+    padding: 7px;
+    background-color: #000000 ;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    color: #ffff;
+}
+
+.intem-price{
+    font-weight: bold;
+    color: #79cb15;
+}
+
+h4{
+    color: #79cb15;
+    position: relative;
+    left: 10px;
+   
+}
+
+.img-1{
+width: 250px;
+
+}
+
+.container-prime{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
