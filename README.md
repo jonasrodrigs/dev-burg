@@ -1,6 +1,6 @@
  <img src="./img/expositor.png" alt="">
 
-##F uncionalidades da Aplicação
+## Funcionalidades da Aplicação
 
 A aplicação demonstra o uso de métodos funcionais do JavaScript para manipulação de dados, exibindo produtos (hambúrgueres) de forma dinâmica na interface. Os principais recursos implementados são:
 
